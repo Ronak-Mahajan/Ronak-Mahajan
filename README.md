@@ -1,6 +1,6 @@
 ### Ronak Mahajan
 
-CS + Math at Vanderbilt, class of 2029. I build quant and ML systems and publish the measurements, including the negative results.
+CS + Math at Vanderbilt, class of 2029. I build quant and ML systems.
 
 **[neural-options-lab](https://github.com/Ronak-Mahajan/neural-options-lab)** ([live demo](https://neural-options-lab.onrender.com)): deep-learning pricer for arithmetic Asian options. 1.33 bp RMSE against 200,000-path Monte Carlo references, rough-volatility calibration to live SPY and BTC option chains, and a neural pricing map that refits a 1,284-quote surface in seconds on a laptop CPU.
 
@@ -12,4 +12,4 @@ CS + Math at Vanderbilt, class of 2029. I build quant and ML systems and publish
 
 Also built [climateharbor.org](https://climateharbor.org), a climate-data platform with users in 35 countries.
 
-[LinkedIn](https://linkedin.com/in/ronak-mahajan) | ronak.mahajan@vanderbilt.edu
+[LinkedIn](https://linkedin.com/in/ronak-mahajan) | 
